@@ -70,6 +70,7 @@
     "as923_3",
     "as923_4",
     "au915_0",
+    "au915_1",
     "cn470_10",
     "cn779",
     "eu433",
@@ -95,7 +96,7 @@
   # is never exposed. Changing this secret will invalidate all login and API
   # tokens. The following command can be used to generate a random secret:
   #   openssl rand -base64 32
-  secret="you-must-replace-this"
+  secret="IntSis"
 
 
 [integration]
